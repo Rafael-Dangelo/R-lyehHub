@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "rlyeh-hub",
+=======
+  "name": "rlyehhub",
+>>>>>>> 9d0167ed776014b205f6cf600e2e4c5c66ace3a0
   "private": true,
   "version": "0.0.0",
   "type": "module",
